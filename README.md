@@ -14,14 +14,8 @@ Allegro2 is designed by Franceska for WebFlake users.
 # Change Log
 
 Version 2.0.019
-- Changed Poll vote bar from blue to black
-- Changed unread seperator from blue to black
-- Regrouped custom.css for better documention and making it easier to find a section
+- Changelog depends on version
 
-Version 2.0.018
-- Fixed Blog Entry statistics header (thanks Lara for pointing this out!)
-- Changed "Follow this" button in the Blog Entry statistics header from white to black to match the header a bit more
-- Added support for the "Support" application
-
-Version 2.0.017
-- Initial Release
+Version 2.0.17 (Blue)
+- Initial Release 
+- Didn't need any fixes, so no updates!
