@@ -1,4 +1,4 @@
-# Allegro2 | v2.0.019
+# Allegro2 | v2.0.017
 #Read Me
 
 Allegro2 is a new version of "Allegro" that has been written from scratch, with beauty in mind. I believe that IPB 4 deserves some beautiful themes and that Allegro2 is one of them.
